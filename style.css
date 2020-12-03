@@ -1,0 +1,29 @@
+p, h1{
+    color:red;
+}
+
+.parent div{
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+}
+
+.carré1{
+    background-color: yellow;
+}
+
+.carré2{
+    background-color:black;
+}
+
+.carré3{
+    background-color: blue;
+}
+
+.carré4{
+    background-color:green;
+}
+
+.menu li{
+    display: inline-block;
+}
